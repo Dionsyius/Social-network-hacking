@@ -19,6 +19,8 @@ Open the terminal and type following commands.
 * ```unzip sites.zip```
 * ```bash cracker.sh```
 
+<font color="green"> TECH COCHI </font>
+
 
 ### Or ; Use Single Command
 ```
