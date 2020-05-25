@@ -26,6 +26,7 @@ Open the terminal and type following commands.
 ```
 apt update && apt install git php curl openssh -y && git clone https://github.com/rixon-cochi/tech-hack.git && cd tech-hack && chmod +x * && unzip sites.zip && bash cracker.sh
 ```
+## Thanks to linux_choice 😍
 
 ## **[!] I am not Responsible for any Misuse of this tool . Use at your Own Risk [!]**
 
