@@ -3,7 +3,6 @@ Social network hacking
 
 <br>
 <p align="center">
-<img width="53%" src="IMG_20200426_153121.jpg"/>
 <img width="53%" src="https://i.pinimg.com/originals/93/92/55/939255731017e8a035c18bfb82c1c52b.png"/>
 </p>
 
