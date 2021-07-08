@@ -33,5 +33,5 @@ apt update && apt install git php curl openssh -y && git clone https://github.co
 [![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
 
 ## [+] Find Me on :
-### > [YouTube](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
+### > [YouTube](https://www.youtube.com/c/HYDRAGAMING4U)
 ### > [TECH-COCHI](http://techcochi.website2.me)
